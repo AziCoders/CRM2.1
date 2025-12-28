@@ -9,6 +9,7 @@ venv/
 env/
 .env
 .env.*
+.idea/
 
 # Runtime storage (must be persistent on hosting)
 roles.json
