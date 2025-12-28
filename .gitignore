@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.json
+.Python
+.venv/
+venv/
+env/
+.env
+.env.*
+
+# Runtime storage (must be persistent on hosting)
+roles.json
+roles_vk.json
